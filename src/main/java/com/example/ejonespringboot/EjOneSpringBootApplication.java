@@ -9,6 +9,7 @@ public class EjOneSpringBootApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(EjOneSpringBootApplication.class, args);
+        System.out.println("Hola mundo");
     }
 
 }
